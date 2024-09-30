@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/Asif/Desktop/Joyseno-1.0.0/css"
+		},
+		{
+			"path": "C:/Users/Asif/Desktop/Joyseno-1.0.0/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
